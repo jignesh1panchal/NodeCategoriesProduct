@@ -25,7 +25,7 @@ npm install
 
 npm start
 
-# API refererces you can import postman file.
+# API refererces you can import postman file in above source code file
 
 RestfulUrls.postman_collection.json
 
