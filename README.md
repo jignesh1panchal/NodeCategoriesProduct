@@ -16,3 +16,15 @@ You need to design a proper Mongodb data model and create APIs to 
 5. Update product details (name,price,etc)    
 
 #Stack: Express Node.js, Mongodb
+
+#install node packges
+
+npm install
+
+#API refererces you can import postman file.
+
+RestfulUrls.postman_collection.json
+
+#Schema design reference url
+
+http://learnmongodbthehardway.com/schema/categoryhierarchy/
