@@ -17,11 +17,11 @@ You need to design a proper Mongodb data model and create APIs to 
 
 # Stack: Express Node.js, Mongodb
 
-# install node packges
+# Install node packges
 
 npm install
 
-# start project
+# Start project
 
 npm start
 
