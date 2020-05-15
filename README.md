@@ -21,6 +21,10 @@ You need to design a proper Mongodb data model and create APIs to 
 
 npm install
 
+# start project
+
+npm start
+
 # API refererces you can import postman file.
 
 RestfulUrls.postman_collection.json
