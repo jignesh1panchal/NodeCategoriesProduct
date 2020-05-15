@@ -15,7 +15,8 @@ You need to design a proper Mongodb data model and create APIs to 
 4. Get all products by a category.  
 5. Update product details (name,price,etc)    
 
-# Stack: Express Node.js, Mongodb
+# Stack Technology : 
+Express Node.js, Mongodb
 
 # Install node packges
 
